@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "Name": "Simyacı",
+      "author": "Paulo Coelho",
+      "Price": 9.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "Name": "Yüzyıllık Yalnızlık",
+      "author": "Gabriel García Márquez",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51A1ZxGf94L._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "Name": "Annemi Bir Kez Daha Görebilsem",
+      "author": "Zana Muhsen",
+      "Price": 16.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "Name": "Ekmek Kavgası",
+      "author": "Orhan Kemal",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BJdviD3TL._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "kategoriId": 5,
+      "Name": "Aşk",
+      "author": "Elif Şafak",
+      "Price": 25.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414N7XbRE%2BL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "Name": "Simyacı",
+      "author": "Paulo Coelho",
+      "Price": 9.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "Name": "Yüzyıllık Yalnızlık",
+      "author": "Gabriel García Márquez",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51A1ZxGf94L._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "Name": "Annemi Bir Kez Daha Görebilsem",
+      "author": "Zana Muhsen",
+      "Price": 16.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "Name": "Ekmek Kavgası",
+      "author": "Orhan Kemal",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BJdviD3TL._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "kategoriId": 5,
+      "Name": "Aşk",
+      "author": "Elif Şafak",
+      "Price": 25.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414N7XbRE%2BL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "Name": "Simyacı",
+      "author": "Paulo Coelho",
+      "Price": 9.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "Name": "Yüzyıllık Yalnızlık",
+      "author": "Gabriel García Márquez",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51A1ZxGf94L._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "Name": "Annemi Bir Kez Daha Görebilsem",
+      "author": "Zana Muhsen",
+      "Price": 16.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqjXwFzwL._SX344_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "Name": "Ekmek Kavgası",
+      "author": "Orhan Kemal",
+      "Price": 19.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BJdviD3TL._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "kategoriId": 5,
+      "Name": "Aşk",
+      "author": "Elif Şafak",
+      "Price": 25.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414N7XbRE%2BL._SX344_BO1,204,203,200_.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "test"      
+    },
+    {
+      "id": 2,
+      "categoryName": "okuma"
+    },
+    {
+      "id": 3,
+      "categoryName": "çoçuk" 
+    },
+    {
+      "id": 4,
+      "categoryName": "yetişkin"
+    },
+    {
+      "id": 5,
+      "categoryName": "korku"
+    }
+  ]
+}
